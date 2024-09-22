@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # DL
-=======
+
 # Gender-and-Age-Detection   <img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Gender-and-Age-Detection">
 
 <h2><a href="https://pythonista29.stores.instamojo.com/" >Visit Store for more intresting Project</a></h2>
@@ -111,4 +111,4 @@ If you found this project helpful or you learned something from the source code 
     <li><a href="https://www.paypal.me/smahesh29"><b>PayPal</b></a></li>
     <li><b>UPI ID :</b> maheshusa29@oksbi</li>
 </ul>           
->>>>>>> a0fce7f (Initial commit)
+
